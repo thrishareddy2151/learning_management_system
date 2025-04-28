@@ -35,9 +35,3 @@ A full-stack Learning Management System built with:
 - Node.js (v14+)
 - MongoDB Atlas account or local MongoDB installation
 - Git
-
-### Backend Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/lms-mern.git
-   cd lms-mern/server
